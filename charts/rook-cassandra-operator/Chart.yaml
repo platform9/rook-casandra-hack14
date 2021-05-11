@@ -1,0 +1,9 @@
+apiVersion: v2
+name: rook-cassandra-operator 
+description: A Helm chart for rook operator for cassandra
+type: application
+version: 1.0
+appVersion: "1.0"
+home: https://github.com/anupbarve/hack14
+sources:
+  - https://github.com/anupbarve/hack14 
