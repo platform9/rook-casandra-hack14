@@ -1,0 +1,29 @@
+apiVersion: v1
+entries:
+  rook-cassandra:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2021-05-11T09:21:21.428759154Z"
+    description: A Helm chart for rook-cassandra
+    digest: 8253eaf6897b3c03d02f78dd3991cbb0156b1b9c2535b83e0988cc93e22ff95d
+    home: https://github.com/anupbarve/hack14
+    name: rook-cassandra
+    sources:
+    - https://github.com/anupbarve/hack14
+    urls:
+    - https://github.com/platform9/rook-casandra-hack14/releases/download/rook-cassandra-1/rook-cassandra-1.tgz
+    version: "1"
+  rook-cassandra-operator:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2021-05-11T09:21:21.564059987Z"
+    description: A Helm chart for rook operator for cassandra
+    digest: 13321144305372c62a0d3bd59e5adf539307544d4b7ca96d65505a402d11fa9f
+    home: https://github.com/anupbarve/hack14
+    name: rook-cassandra-operator
+    sources:
+    - https://github.com/anupbarve/hack14
+    urls:
+    - https://github.com/platform9/rook-casandra-hack14/releases/download/rook-cassandra-operator-1/rook-cassandra-operator-1.tgz
+    version: "1"
+generated: "2021-05-11T09:21:20.983444573Z"
